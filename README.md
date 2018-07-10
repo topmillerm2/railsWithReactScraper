@@ -1,3 +1,7 @@
-$ foreman start -f Procfile.dev 
+# Getting Started
 
-This starts up the create-react-app and rails server
+```
+$ foreman start -f Procfile.dev
+```
+
+This spins up the create-react-app server as well the rails api server
